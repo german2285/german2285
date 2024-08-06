@@ -8,9 +8,7 @@ My name is Герман Куценко, мне 16 years. I активно зан
 
 I обладаю broad knowledge в области **DevOps**, что allows me effectively manage infrastructure и automation. I владею такими tools, как **Ansible, Kubernetes, Docker, Proxmox и Pterodactyl**. My язык программирования — **Python**, а также I хорошо разбираюсь в systems на базе Linux, так как использую её as основную OS. 🙂🙂🙂 I'm Happy 
   
-
 <br/>  
-
 
 ## Languages and Tools  
 <table><tr><td valign="top" width="50%">
@@ -28,7 +26,6 @@ I обладаю broad knowledge в области **DevOps**, что allows me 
 </div>
 
 </td><td valign="top" width="50%">
-
 
 
 ### DevOps  
