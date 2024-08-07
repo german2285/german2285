@@ -1,10 +1,10 @@
-## Привет, I'm Герман Куценко!   
+## Hey, German is Here!   
   
 
 
 
 ### Подробная информация обо мне:  
-My name is Герман Куценко, мне 16 years. I активно занимаюсь sports: already 4 years занимаюсь rowing и skiing, в каждом из которых I have первый взрослый разряд. My goal - стать DevOps engineer. My English level соответствует **B1**.
+My name is German Kutsenko, мне 16 years. I активно занимаюсь sports: already 4 years занимаюсь rowing и skiing, в каждом из которых I have первый взрослый разряд. My goal - стать DevOps engineer. My English level соответствует **B1**.
 
 I обладаю broad knowledge в области **DevOps**, что allows me effectively manage infrastructure и automation. I владею такими tools, как **Ansible, Kubernetes, Docker, Proxmox и Pterodactyl**. My язык программирования — **Python**, а также I хорошо разбираюсь в systems на базе Linux, так как использую её as основную OS. 🙂🙂🙂 I'm Happy 
   
