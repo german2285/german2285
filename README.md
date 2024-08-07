@@ -4,9 +4,9 @@
 
 
 ### Подробная информация обо мне:  
-My name is German Kutsenko, мне 16 years. I активно занимаюсь sports: already 4 years занимаюсь rowing и skiing, в каждом из которых I have первый взрослый разряд. My goal - стать DevOps engineer. My English level соответствует **B1**.
+My name is German Kutsenko, i'm 16 years. I like sports, such like: more than for 4 years. I do my rowing и skiing, In each of them i'm quite skilled one. My dreem is to become DevOps engineer. My English level - trying hard 😀
 
-I обладаю broad knowledge в области **DevOps**, что allows me effectively manage infrastructure и automation. I владею такими tools, как **Ansible, Kubernetes, Docker, Proxmox и Pterodactyl**. My язык программирования — **Python**, а также I хорошо разбираюсь в systems на базе Linux, так как использую её as основную OS. 🙂🙂🙂 I'm Happy 
+I have wide knowledge as **DevOps**. I use tools, as **Ansible, Kubernetes, Docker, Proxmox and Pterodactyl**. My language — **Python**, also I'm quite good in linux based systems and it's my favourite one. 🙂🙂🙂 I'm Happy 
   
 <br/>  
 
